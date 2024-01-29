@@ -18,7 +18,15 @@ public class WeatherService {
 
     public String getCurrentWeather(double lat, double lon) {
         String url = String.format(
-                "http://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%s&appid=%s",
+                "http://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%s&appid=%s&units=metric",
+                lat, lon, apiKey);
+
+        return restTemplate.getForObject(url, String.class);
+    }
+
+    public String getForecastWeather(double lat, double lon) {
+        String url = String.format(
+                "http://api.openweathermap.org/data/2.5/forecast?lat=%s&lon=%s&appid=%s&units=metric",
                 lat, lon, apiKey);
 
         return restTemplate.getForObject(url, String.class);

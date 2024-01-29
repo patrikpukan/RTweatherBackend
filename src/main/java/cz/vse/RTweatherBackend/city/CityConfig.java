@@ -44,17 +44,17 @@ public class CityConfig {
                     17.251740
             );
             City city7 = new City(
-                    "Usti nad Labem",
+                    "Usti_nad_Labem",
                     50.660700,
                     14.032270
             );
             City city8 = new City(
-                    "Hradec Kralove",
+                    "Hradec_Kralove",
                     50.209200,
                     15.832770
             );
             City city9 = new City(
-                    "Ceske Budejovice",
+                    "Ceske_Budejovice",
                     48.974468,
                     14.474624
             );
@@ -89,9 +89,10 @@ public class CityConfig {
                     18.541000
             );
             City city16 = new City(
-                    "Frydek-Mistek",
-                    49.685000,
-                    18.348000
+                    "Paris",
+                    48.856613,
+                    2.352222
+
             );
             City city17 = new City(
                     "Opava",
@@ -109,7 +110,7 @@ public class CityConfig {
                     14.214000
             );
             City city20 = new City(
-                    "Karlovy Vary",
+                    "Karlovy_Vary",
                     50.232000,
                     12.871000
             );
@@ -139,17 +140,17 @@ public class CityConfig {
                     17.450000
             );
             City city26 = new City(
-                    "Jablonec nad Nisou",
+                    "Jablonec_nad_Nisou",
                     50.724000,
                     15.171000
             );
             City city27 = new City(
-                    "Mlada Boleslav",
+                    "Mlada_Boleslav",
                     50.411000,
                     14.903000
             );
             City city28 = new City(
-                    "Ceska Lipa",
+                    "Ceska_Lipa",
                     50.685000,
                     14.537000
             );
@@ -174,12 +175,12 @@ public class CityConfig {
                     21.240000
             );
             City city33 = new City(
-                    "New York",
+                    "New_York",
                     40.730610,
                     -73.935242
             );
             City city34 = new City(
-                    "Los Angeles",
+                    "Los_Angeles",
                     34.052235,
                     -118.243683
             );

@@ -8,6 +8,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(path = "api/appUser")
+@CrossOrigin(origins = "*", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE})
 public class AppUserController {
 
     private final AppUserService appUserService;
