@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend;
+package cz.vse.rtweatherbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

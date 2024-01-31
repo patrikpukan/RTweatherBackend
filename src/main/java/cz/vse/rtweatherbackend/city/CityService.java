@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend.city;
+package cz.vse.rtweatherbackend.city;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,5 @@
-package cz.vse.RTweatherBackend.city;
+package cz.vse.rtweatherbackend.city;
 
-import cz.vse.RTweatherBackend.user.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

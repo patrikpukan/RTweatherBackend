@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend;
+package cz.vse.rtweatherbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

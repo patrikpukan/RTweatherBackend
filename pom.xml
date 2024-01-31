@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cz.vse</groupId>
-	<artifactId>RTweatherBackend</artifactId>
+	<artifactId>rtweatherbackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RTweatherBackend</name>
+	<name>rtweatherbackend</name>
 	<description>Backend For Weather App</description>
 	<properties>
 		<java.version>17</java.version>

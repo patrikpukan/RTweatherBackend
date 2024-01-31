@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend.weather;
+package cz.vse.rtweatherbackend.weather;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

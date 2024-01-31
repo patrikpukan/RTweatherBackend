@@ -1,7 +1,7 @@
-package cz.vse.RTweatherBackend.weather;
+package cz.vse.rtweatherbackend.weather;
 
-import cz.vse.RTweatherBackend.city.City;
-import cz.vse.RTweatherBackend.city.CityService;
+import cz.vse.rtweatherbackend.city.City;
+import cz.vse.rtweatherbackend.city.CityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

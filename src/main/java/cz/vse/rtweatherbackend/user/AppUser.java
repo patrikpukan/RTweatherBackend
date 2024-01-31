@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend.user;
+package cz.vse.rtweatherbackend.user;
 
 
 import jakarta.persistence.*;

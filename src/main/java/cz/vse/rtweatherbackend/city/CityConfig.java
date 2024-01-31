@@ -1,4 +1,4 @@
-package cz.vse.RTweatherBackend.city;
+package cz.vse.rtweatherbackend.city;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
